@@ -46,3 +46,8 @@ For every IC I add, the structure will follow:
 
 This project is for **learning and educational purposes**. I am not affiliated with any Company --Just a student trying to learn new things!!
 
+## Project Tracker
+
+Track the progress of this project on our [GitHub Project Board]
+https://github.com/users/llYuGll/projects/2/views/1
+
