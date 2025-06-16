@@ -8,7 +8,8 @@ Hence, we can perform 3 kinds of signal division:
 
 In my Verilog module, I’ll show an RTL-level description of Mod 16 operation. A structural description (using instantiation) would be more suitable for directly using any mod.  
 
-Another important point i noted from the datasheet is that- CKA triggers on positive edge but CKB triggers on negative edge. It looks like this might create non uniform timed stated but it doesn't! find output wave form for 7493 in DOC for more help.
+Another important point i noted from the datasheet is that- CKA triggers on positive edge but CKB triggers on negative edge. It looks like this might create non uniform timed states but it doesn't! 
+find output wave form for 7493 in DOC for more help.
 
 This explanation should suffice to use this IC. I will use the 7493 in one of my projects—find it in the **Implement** module of this repo.  
 
