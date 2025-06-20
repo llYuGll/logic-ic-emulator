@@ -37,7 +37,7 @@ The internal working of this IC as expected is Decoding circuit. And can be refe
 
 
 ```
-credit for table to TI datasheet for function table image and chat-gpt for converting it into text.
+credit  to TI datasheet for function table image and chat-gpt for converting it into text.
 
 
 
